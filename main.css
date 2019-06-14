@@ -1,4 +1,4 @@
-button {
+body {
 display: flex;
 flex-direction: column;
 justify-content: center;
@@ -29,5 +29,5 @@ input {
 }
 
 .addOption {
-  margin-top: 10px
+  margin-top: 10px;
 }
